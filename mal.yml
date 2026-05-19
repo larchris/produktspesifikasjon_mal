@@ -1,10 +1,11 @@
-metadataId: 041f1e6e-bdbc-4091-b48f-8a5990f3cc5b
+metadataId: a8456aed-441a-40c4-831f-46bcbe4e6ff1
 output_directory: produktspesifikasjon
-product_slug: admenheter
-updated: 2025-01-01
+product_slug: arter-av-nasjonal-forvaltningsinteresse
+updated: 2026-05-19
 # 
 #ogc_feature_api: https://kos-pygeoapi.atkv3-dev.kartverket.cloud/collections
 #xmi_url: https://sosi.geonorge.no/svn/SOSI/SOSI Del 3/Statens kartverk/Havnedata_testing.xml
+xmi_url: https://sosi.geonorge.no/svn/SOSI/SOSI Del 3/Miljodirektoratet/ArterNasjonalForvaltningsinteresse_3_0.xml
 #include_only_features:
 #  - Uttak
 #
